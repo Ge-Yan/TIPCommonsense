@@ -8,7 +8,7 @@ Before starting, make sure you have installed all the necessary dependencies and
 First, install the necessary dependencies for the project by running:
 ```bash
 pip install -r requirements.txt
-
+```
 ### 2. Download Dataset
 
 Go to [SemEval 2020 Task 4: Commonsense Validation and Explanation](https://github.com/wangcunxiang/SemEval2020-Task4-Commonsense-Validation-and-Explanation) and download the dataset for the subtask. Place the downloaded data in the `data` folder at the project root.
