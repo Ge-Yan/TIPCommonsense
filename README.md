@@ -28,7 +28,7 @@ Run the `concept_extractor.py` script to generate the necessary concept file:
 python concept_extractor.py
 ```
 
-Then update the \texttt{concepts\_path} field in \texttt{conf/config.yaml} to point the concept file. 
+Then update the `concepts\_path` field in `conf/config.yaml` to point the concept file. 
 
 ### 5. Set Model Name
 
