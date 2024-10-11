@@ -12,7 +12,7 @@ pip install -r requirements.txt
 
 Go to [SemEval 2020 Task 4: Commonsense Validation and Explanation](https://github.com/wangcunxiang/SemEval2020-Task4-Commonsense-Validation-and-Explanation) and download the dataset for the subtaskC. Place the downloaded data in the `data` folder at the project root.
 
-### 3. Configure `config.yaml`
+### 3. Configure
 
 Open the `conf/config.yaml` file and modify the `data_path` field to point to the path of the dataset you just downloaded. For example:
 
